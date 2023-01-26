@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sebffischer.github.io/posts/nested-s3/index.html</loc>
-    <lastmod>2023-01-26T20:14:08.813Z</lastmod>
+    <loc>https://github.com/sebffischer/sebffischer.github.io/index.html</loc>
+    <lastmod>2023-01-26T20:15:05.053Z</lastmod>
   </url>
   <url>
-    <loc>https://sebffischer.github.io/index.html</loc>
-    <lastmod>2023-01-26T20:14:09.089Z</lastmod>
+    <loc>https://github.com/sebffischer/sebffischer.github.io/posts/nested-s3/index.html</loc>
+    <lastmod>2023-01-26T20:15:06.169Z</lastmod>
   </url>
   <url>
-    <loc>https://sebffischer.github.io/about.html</loc>
-    <lastmod>2023-01-26T20:14:09.357Z</lastmod>
+    <loc>https://github.com/sebffischer/sebffischer.github.io/about.html</loc>
+    <lastmod>2023-01-26T20:15:06.517Z</lastmod>
   </url>
 </urlset>
