@@ -1,1 +1,1 @@
-Sitemap: https://sebffischer.github.io/sitemap.xml
+Sitemap: https://github.com/sebffischer/sebffischer.github.io/sitemap.xml
