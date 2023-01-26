@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "sebffischer.github.io"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/sebffischer
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
